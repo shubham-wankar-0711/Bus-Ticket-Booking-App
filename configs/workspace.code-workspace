@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../Flask_Projects"
+		},
+		{
+			"path": "../../../JWT_Projects"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../Git_Repository"
+		}
+	],
+	"settings": {}
+}
